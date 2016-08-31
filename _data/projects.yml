@@ -1,0 +1,46 @@
+- title: "Open Data Kit"
+  researchers: Waylon Brunette, Nicki Dell, Richard Anderson, Sam Sudar, Gaetano Borriello
+  description: Mobile-based data collection tools. 
+  url: http://opendatakit.org
+  area: [systems]
+
+- title: "Projecting Health"
+  researchers: Trevor Perrier, Neha Kumar, Aditya Vashistha, Richard Anderson
+  description: Community-Led Video Education, based on locally produced video content
+  url: http://homes.cs.washington.edu/~anderson/projectinghealth/
+  area: [health, behavior, hci]
+
+- title: "Mobile Watch"
+  researchers: Trevor Perrier, Brian DeRenze, Richard Anderson
+  description: SMS based information dissemination system for awareness
+  area: [health, behavior]
+
+- title: "Dextra"
+  researchers: Fahad Pervaiz, Richard Anderson
+  description: An intelligent data cleaning tool
+  area: [data]
+
+- title: "Mezuri"
+  researchers: Waylon Brunette, Richard Anderson, Gaetano Borriello
+  description: Data processing platform for ODK
+  area: [data]
+
+- title: "Sangeet Swara"
+  researchers: Aditya Vashistha
+  description: Voice-based social media platform for low-Income low-Literate people
+  area: [hci]
+  
+- title: "Respeak"
+  researchers: Aditya Vashistha, Richard Anderson
+  description: Voice-based crowd-powered speech transcription system
+  area: [hci]
+  
+- title: "ODK Scan"
+  researchers: Jeff Beorse, Nicki Dell, Richard Anderson
+  description: Digitizing paper-based data in global development 
+  area: [hci]
+
+- title: "Cold Chain Monitoring"
+  researchers: Fahad Pervaiz, Trevor Perrier, Richard Anderson
+  description: Improving data availbility and analysis around vaccine availbility in rural areas
+  area: [health, data]

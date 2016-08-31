@@ -1,0 +1,62 @@
+faculty:
+    richard:
+        display_name: "Richard Anderson"
+        webpage: "http://www.cs.washington.edu/people/faculty/anderson"
+        role: faculty
+        img: richard_anderson.jpg
+        bio: |
+            Richard is a Professor of Computer Science and Engineering, where he has been on the faculty since 1986, with brief leaves to [Indian Institute of Science](http://www.iisc.ernet.in/), [Microsoft Research](http://research.microsoft.com), and PATH. His research has focussed on computing for the developing world since 2005, when he became involved with the Digital Study Hall project. In 2009, Richard spent a sabbatical year working with the [Digital Health Solutions](http://sites.path.org/hmis/) group at PATH, a global health NGO based in Seattle. This opportunity allowed him to increase his efforts on applying computing technologies to challenges in global health. While working with PATH, he co-founded the Projecting Health project, which uses the Community-Led Video Education model to promote healthy practices in rural areas in India. Back at University of Washington, he is now overseeing the efforts of the Open Data Kit project. His research interests in ICTD include technologies for behavior change communication, improving tools to support the use of data in strengthening health systems, and digital financial services.
+
+    kurtis:
+        display_name: "Kurtis Heimerl"
+        webpage: "https://www.eecs.berkeley.edu/~kheimerl/"
+        role: faculty
+        img: kurtis_heimerl.jpg
+        bio: |
+            Kurtis is a new Assistant Professor of Computer Science and Engineering. He received his PhD from the University of California, Berkeley where he worked on Commmunity Cellular Networks: low-cost, low-power, locally owned cellular infrastructure. After Berkeley he co-founded [Endaga](http://endaga.com) to commercialize the work on Community Cellular and joined Facebook to continue that effort. Outside of connectivity he has worked broadly in the field of ICTD, including projects in health, education, and alternative forms of access. He will be joining the ICTD group in the fall of 2016.
+
+    Franzi:
+        display_name: "Franzi Roesner"
+        webpage: "http://www.franziroesner.com/"
+        role: faculty
+        img: franzi_roesner.jpg
+        bio: |
+            Franzi is an assistant professor in Computer Science and Engineering at the University of Washington. Her research focuses on improving computer security and privacy for end users of existing and emerging technologies, including the web, smartphones, and emerging augmented reality platforms. Her work on application permissions in modern operating systems (including smartphones) received the Best Practical Paper Award at the 2012 IEEE Symposium on Security and Privacy, her work on security and privacy for augmented reality was featured on the cover of the Communications of the ACM magazine, and her defense for tracking by social media widgets on the web was incorporated into the Electronic Frontier Foundation’s Privacy Badger tool. 
+            
+    Yoshi:
+        display_name: "Tadayoshi Kohno"
+        webpage: "http://homes.cs.washington.edu/~yoshi/"
+        role: faculty
+        img: tadayoshi_kohno.jpg
+        bio: |
+            Yoshi is the Short-Dooley Professor of Computer Science & Engineering at the University of Washington and an Adjunct Associate Professor in the UW Information School.  His research focuses on helping protect the security, privacy, and safety of users of current and future generation technologies. Kohno is the recipient of an Alfred P. Sloan Research Fellowship, a U.S. National Science Foundation CAREER Award, and a Technology Review TR-35 Young Innovator Award.  Kohno has authored more than a dozen award papers, has presented his research to the U.S. House of Representatives, was profiled in the NOVA ScienceNOW “Can Science Stop Crime?” documentary, and is a past chair of the USENIX Security Symposium.  Kohno is also a member of the U.S. Government’s Defense Science Study Group, the National Academies Forum on Cyber Resilience, the IEEE Center for Secure Design, and the USENIX Security Steering Committee. 
+
+postdoc:            
+    Shrirang:
+        display_name: "Shrirang Mare"
+        role: postdoc
+        img: shrirang_mare.jpg
+        bio: |
+            Shrirang joins the DFSRG as a Postdoctoral Fellow. He is interested in security and privacy issues in pervasive computing, in particular in healthcare, usable security, and continuous authentication.
+
+grad:
+    aditya:
+        display_name: "Aditya Vashistha"
+        webpage: "http://www.adityavashistha.com/"
+        role: grad
+        img: aditya_vashistha.jpg
+    fahad: 
+        display_name: "Fahad Pervaiz"
+        webpage: "https://homes.cs.washington.edu/~fahadp/"
+        role: grad
+        img: fahad_pervaiz.jpg
+    sam:
+        display_name: "Sam Castle"
+        webpage: "http://samcastle.com/"
+        role: grad
+        img: sam_castle.png
+    trevor:
+        display_name: "Trevor Perrier"
+        webpage: "http://homes.cs.washington.edu/~tperrier/"
+        role: grad
+        img: trevor_perrier.jpg
