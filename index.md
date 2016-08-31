@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Digital Financial Services (DFS)
+title: Digital Financial Services Research Group (DFSRG)
 ---
+
 
 The Digital Financial Services Research Group (DFSRG) investigates technologies that improve the ability of banks and mobile operators to deploy Digital Financial Service (DFS) products that reach the poor. 
 
