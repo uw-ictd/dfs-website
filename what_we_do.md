@@ -25,9 +25,9 @@ The following set of DFS problems have been identified as the highest priority f
 	<div class="panel-heading">Download our Research Briefs</div>
 	<div class="panel-body">
 		<ul>
-			<li><a href="ICTD_Open Session_Research Brief_Aug2016.pdf">ICTD Open Session</a></li>
-			<li><a href="Mobile Money Security_Research Brief_August 2016.pdf">Mobile Mobile Security Challenges</a></li>
-			<li><a href="Literature Survey_Research Brief_August 2016.pdf">Literature Review</a></li>
+			<li><a href="docs/ICTD_Open_Session_Research_Brief_Aug2016.pdf">ICTD Open Session</a></li>
+			<li><a href="docs/Mobile_Money_Security_Research_Brief_Aug2016.pdf">Mobile Mobile Security Challenges</a></li>
+			<li><a href="docs/Literature_Survey_Research_Brief_Aug2016.pdf">Literature Review</a></li>
 		</ul>
 	</div>
 </div>
