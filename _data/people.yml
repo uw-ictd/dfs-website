@@ -21,23 +21,24 @@ faculty:
         role: faculty
         img: franzi_roesner.jpg
         bio: |
-            Franzi is an assistant professor in Computer Science and Engineering at the University of Washington. Her research focuses on improving computer security and privacy for end users of existing and emerging technologies, including the web, smartphones, and emerging augmented reality platforms. Her work on application permissions in modern operating systems (including smartphones) received the Best Practical Paper Award at the 2012 IEEE Symposium on Security and Privacy, her work on security and privacy for augmented reality was featured on the cover of the Communications of the ACM magazine, and her defense for tracking by social media widgets on the web was incorporated into the Electronic Frontier Foundation’s Privacy Badger tool. 
-            
+            Franzi is an assistant professor in Computer Science and Engineering at the University of Washington. Her research focuses on improving computer security and privacy for end users of existing and emerging technologies, including the web, smartphones, and emerging augmented reality platforms. Her work on application permissions in modern operating systems (including smartphones) received the Best Practical Paper Award at the 2012 IEEE Symposium on Security and Privacy, her work on security and privacy for augmented reality was featured on the cover of the Communications of the ACM magazine, and her defense for tracking by social media widgets on the web was incorporated into the Electronic Frontier Foundation’s Privacy Badger tool.
+
     Yoshi:
         display_name: "Tadayoshi Kohno"
         webpage: "http://homes.cs.washington.edu/~yoshi/"
         role: faculty
         img: tadayoshi_kohno.jpg
         bio: |
-            Yoshi is the Short-Dooley Professor of Computer Science & Engineering at the University of Washington and an Adjunct Associate Professor in the UW Information School.  His research focuses on helping protect the security, privacy, and safety of users of current and future generation technologies. Kohno is the recipient of an Alfred P. Sloan Research Fellowship, a U.S. National Science Foundation CAREER Award, and a Technology Review TR-35 Young Innovator Award.  Kohno has authored more than a dozen award papers, has presented his research to the U.S. House of Representatives, was profiled in the NOVA ScienceNOW “Can Science Stop Crime?” documentary, and is a past chair of the USENIX Security Symposium.  Kohno is also a member of the U.S. Government’s Defense Science Study Group, the National Academies Forum on Cyber Resilience, the IEEE Center for Secure Design, and the USENIX Security Steering Committee. 
+            Yoshi is the Short-Dooley Professor of Computer Science & Engineering at the University of Washington and an Adjunct Associate Professor in the UW Information School.  His research focuses on helping protect the security, privacy, and safety of users of current and future generation technologies. Kohno is the recipient of an Alfred P. Sloan Research Fellowship, a U.S. National Science Foundation CAREER Award, and a Technology Review TR-35 Young Innovator Award.  Kohno has authored more than a dozen award papers, has presented his research to the U.S. House of Representatives, was profiled in the NOVA ScienceNOW “Can Science Stop Crime?” documentary, and is a past chair of the USENIX Security Symposium.  Kohno is also a member of the U.S. Government’s Defense Science Study Group, the National Academies Forum on Cyber Resilience, the IEEE Center for Secure Design, and the USENIX Security Steering Committee.
 
-postdoc:            
+postdoc:
     Shrirang:
         display_name: "Shrirang Mare"
         role: postdoc
         img: shrirang_mare.jpg
         bio: |
-            Shrirang joins the DFSRG as a Postdoctoral Fellow. He is interested in security and privacy issues in pervasive computing, in particular in healthcare, usable security, and continuous authentication.
+            Shrirang Mare received his PhD from Dartmouth College, Hanover where he developed authentication techniques for personal computing devices (desktops and smartphones) levaraging wrist wearables. Before Dartmouth he worked at IBM India for two years and at Indian Institue of Science (IISc), Banagalore for one year. He received his Bachelors in Mechanical Engineering from BITS-Pilani, India in 2006. He is interested in security and privacy issues in healthcare and digital financial services, and HCI. His current research focuses on usable authentication methods for smartphones.
+
 
 grad:
     aditya:
@@ -45,7 +46,7 @@ grad:
         webpage: "http://www.adityavashistha.com/"
         role: grad
         img: aditya_vashistha.jpg
-    fahad: 
+    fahad:
         display_name: "Fahad Pervaiz"
         webpage: "https://homes.cs.washington.edu/~fahadp/"
         role: grad
