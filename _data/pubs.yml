@@ -40,13 +40,30 @@
 
 - title: "A Review of the Computer Science Literature Relating to Digital Financial Services"
   url: "docs/Literature_Survey_Research_Brief_Aug2016.pdf"
-  authors: Sam Castle Fahad Pervaiz, Sarah Yu
+  authors: Sam Castle, Fahad Pervaiz, Sarah Yu
   type: brief
   venue: UW DFS Research Brief 001
   year: 2016
   month: August
+  tags: [finance]
+
+- title: "ICTD 2016 Digital Financial Services Open Session Report"
+  url: "docs/ICTD_Open_Session_Research_Brief_Aug2016.pdf"
+  authors: Sam Castle, Ashley Hartz, Fahad Pervaiz
+  type: brief
+  venue: UW DFS Research Brief 002
+  year: 2016
+  month: August
+  tags: [finance]
   
-  
+- title: "A Digital Pathway to Financial Inclusion"
+  url: "https://www.responsiblefinanceforum.org/wp-content/uploads/Pathway_Financial_Inclusion.pdf"
+  authors: Dan Radcliffe, Rodger Voorhies"
+  type: reference
+  venue: Bill & Melinda Gates Foundation
+  year: 2012
+  month: December  
+
 #- title: ""
 #  url: ""
 #  authors: 

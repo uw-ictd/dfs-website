@@ -6,7 +6,8 @@ title: Resources
 <a href="#papers">Papers</a> / 
 <a href="#briefs">Research briefs</a> / 
 <a href="#talks">Talks </a> /
-<a href="#references">DFS References</a>
+<a href="#references">DFS References</a> /
+<a href="#internal">Internal Documents</a>
 
 <!--{.% include pubs.html %.}-->
 <h3 id="papers">Papers</h3>
@@ -92,6 +93,85 @@ title: Resources
 {% assign url = page.url %}
 {% for item in site.data.pubs %}
 	{% if item.type == "talk" %}
+	<tr>
+		<td>
+			<span class="date">
+				{{ item.month }}<br />{{ item.year }}
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<strong>
+				{% if item.url %}
+					<!--{.% if '.pdf' in item.url %.}
+					<img src="img/pdficon_small.png" width="16"
+						height="16" alt="PDF" />
+					{.% endif %.}-->
+					<a href="{{ item.url }}">{{ item.title }}</a>.
+				{% else %}
+					{{ item.title }}.
+				{% endif %}
+				</strong>
+			</span><br />
+			<span class="authors">
+				{{ item.authors }}.
+			</span><br />
+			<span class="venue">{{ item.venue }}</span>.
+			<br />
+		</td>
+	</tr>
+	{% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+<h3 id="references">DFS References</h3>
+The literature on Digital Financial Services spans multiple academic disciplines as well as many research and consulting organizations. We list a few works here that we have found useful in beginning to work in the area.  Some of these items maybe restricted to UW access due to copyright reasons.
+<table class="table">
+<tbody>
+{% assign url = page.url %}
+{% for item in site.data.pubs %}
+	{% if item.type == "reference" %}
+	<tr>
+		<td>
+			<span class="date">
+				{{ item.month }}<br />{{ item.year }}
+			</span>
+		</td>
+		<td class="publication">
+			<span class="pubtitle">
+				<strong>
+				{% if item.url %}
+					<!--{.% if '.pdf' in item.url %.}
+					<img src="img/pdficon_small.png" width="16"
+						height="16" alt="PDF" />
+					{.% endif %.}-->
+					<a href="{{ item.url }}">{{ item.title }}</a>.
+				{% else %}
+					{{ item.title }}.
+				{% endif %}
+				</strong>
+			</span><br />
+			<span class="authors">
+				{{ item.authors }}.
+			</span><br />
+			<span class="venue">{{ item.venue }}</span>.
+			<br />
+		</td>
+	</tr>
+	{% endif %}
+{% endfor %}
+</tbody>
+</table>
+
+<h3 id="internal">Internal Documents</h3>
+Internal documents for UWDFS project restricted to UW Access
+
+<table class="table">
+<tbody>
+{% assign url = page.url %}
+{% for item in site.data.pubs %}
+	{% if item.type == "internal" %}
 	<tr>
 		<td>
 			<span class="date">
