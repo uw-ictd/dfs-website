@@ -58,12 +58,52 @@
   
 - title: "A Digital Pathway to Financial Inclusion"
   url: "https://www.responsiblefinanceforum.org/wp-content/uploads/Pathway_Financial_Inclusion.pdf"
-  authors: Dan Radcliffe, Rodger Voorhies"
+  authors: Dan Radcliffe, Rodger Voorhies
   type: reference
   venue: Bill & Melinda Gates Foundation
   year: 2012
-  month: December  
+  month: December 
 
+- title: "Designing Mobile Money Services: Lessons from M-PESA"
+  url: "http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2009.4.2.77"
+  authors: Ignacio Mas, Olga Morawczynski
+  type: reference 
+  venue: innovations / spring 2009
+  year: 2009
+  month: April
+  
+- title: "Doing Digital Finance Right"
+  url: "http://www.cgap.org/publications/doing-digital-finance-right"
+  authors:  Katharine McKee, Michelle Kaffenberger,  Jamie Zimmerman
+  type: reference
+  venue: CGAP report
+  year: 2015
+  month: June
+  
+- title: "Mo(bile) Money, Mo(bile) Problems: Analysis of Branchless Banking Applications in the Developing World"
+  url: https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-reaves-mobile_0.pdf  
+  authors:  Bradley Reaves, Nolen Scaife, Adam Bates, Patrick Traynor, Kevin R.B. Butler 
+  type: reference
+  venue: 24th USENIX Security Symposium
+  year: 2015
+  month: August
+
+- title: "Digital Financial Services Research Proposal"
+  url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSProposalNarrativeOnly.pdf"
+  authors: Richard Anderson
+  type: internal
+  venue: Proposal to Bill & Melinda Gates Proposal (Body of the proposal only)
+  year: 2015
+  month: September
+  
+- title: "Six Month report from DFS RG"
+  url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Aug2016.pdf"
+  authors:  Ashley Hartz, Richard Anderson
+  type: internal
+  venue: Summary of first six months of the project
+  year: 2016
+  month: August
+  
 #- title: ""
 #  url: ""
 #  authors: 
