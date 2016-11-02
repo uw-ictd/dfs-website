@@ -1,6 +1,6 @@
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016.pdf"
-  authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson 
+  authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson
   type: paper
   venue: ACM DEV
   year: 2016
@@ -15,7 +15,7 @@
   year: 2016
   month: March
   tags: [hci]
-  
+
 
 - title: "Computing and Financial Services for the Poor: The UW Digital Financial Services Research Group"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/IITD_rja.pdf"
@@ -25,7 +25,7 @@
   year: 2016
   month: February
   tags: [hci, systems]
-  
+
 
 
 - title: "USSD: The Third Universal App"
@@ -54,23 +54,32 @@
   year: 2016
   month: August
   tags: [finance]
-  
+
+- title: "Let's Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World."
+  url: "docs/Mobile_Money_Research_Brief_Oct2016.pdf"
+  authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner, and Richard Anderson.
+  type: brief
+  venue: UW DFS Research Brief 003
+  year: 2016
+  month: October
+  tags: [finance]
+
 - title: "A Digital Pathway to Financial Inclusion"
   url: "https://www.responsiblefinanceforum.org/wp-content/uploads/Pathway_Financial_Inclusion.pdf"
   authors: Dan Radcliffe, Rodger Voorhies
   type: reference
   venue: Bill & Melinda Gates Foundation
   year: 2012
-  month: December 
+  month: December
 
 - title: "Designing Mobile Money Services: Lessons from M-PESA"
   url: "http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2009.4.2.77"
   authors: Ignacio Mas, Olga Morawczynski
-  type: reference 
+  type: reference
   venue: innovations / spring 2009
   year: 2009
   month: April
-  
+
 - title: "Doing Digital Finance Right"
   url: "http://www.cgap.org/publications/doing-digital-finance-right"
   authors:  Katharine McKee, Michelle Kaffenberger,  Jamie Zimmerman
@@ -78,10 +87,10 @@
   venue: CGAP report
   year: 2015
   month: June
-  
+
 - title: "Mo(bile) Money, Mo(bile) Problems: Analysis of Branchless Banking Applications in the Developing World"
-  url: https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-reaves-mobile_0.pdf  
-  authors:  Bradley Reaves, Nolen Scaife, Adam Bates, Patrick Traynor, Kevin R.B. Butler 
+  url: https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-reaves-mobile_0.pdf
+  authors:  Bradley Reaves, Nolen Scaife, Adam Bates, Patrick Traynor, Kevin R.B. Butler
   type: reference
   venue: 24th USENIX Security Symposium
   year: 2015
@@ -94,7 +103,7 @@
   venue: Proposal to Bill & Melinda Gates Proposal (Body of the proposal only)
   year: 2015
   month: September
-  
+
 - title: "Six Month report from DFS RG"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Aug2016.pdf"
   authors:  Ashley Hartz, Richard Anderson
@@ -102,18 +111,18 @@
   venue: Summary of first six months of the project
   year: 2016
   month: August
-  
+
 - title: "Trip Report,  Pakistan, August 2016"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/TripSummary_Pakistan.pdf"
   authors: Ashley Hartz
   type: internal
   venue:  Trip report for DFS learning visit to Pakistan
   year: 2016
-  month: August  
-  
+  month: August
+
 #- title: ""
 #  url: ""
-#  authors: 
-#  venue: 
+#  authors:
+#  venue:
 #  year: 2015
 #  month: April
