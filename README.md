@@ -1,2 +1,2 @@
-# uw-ictd.github.io
-UW ICTD group website
+# dfs-website
+UW DFSRG Website

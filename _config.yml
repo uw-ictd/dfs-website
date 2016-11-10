@@ -23,7 +23,9 @@ base: ''
 navigation:
     - title: Home
       link: /
-    - title: Who We Are
+    - title: Background
+      link: /background.html
+    - title: People
       link: /who_we_are.html
     - title: Resources
       link: /resources.html

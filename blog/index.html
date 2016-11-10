@@ -1,18 +1,9 @@
 ---
 layout: default
-title: Digital Financial Services Research Group 
+title: News and Blog
 ---
-
-
-
-<div class="jumbotron">
-Our goal is to develop and deploy technological solutions to specific challenges that impede the introduction and wide scale deployment of digital financial services.
-</div> 
-
-
-<h2>Updates</h2>
 <ul class="news list-unstyled">
-{% for post in site.posts limit: site.front_page_news %}
+{% for post in site.posts %}
     {% if post.shortnews %}
         <li class="shortnews">
             <span class="date">{{ post.date | date_to_long_string }}</span>
@@ -26,9 +17,5 @@ Our goal is to develop and deploy technological solutions to specific challenges
     {% endif %}
 {% endfor %}
 </ul>
-{% assign numposts = site.posts | size %}
- 
-<p><a href="{{ site.base }}/blog/">Older posts&hellip;</a></p>
 
-
- 
+<!--<p><a href="{.{ site.base }.}/oldnews.html">See archived news posts.</a></p>-->
