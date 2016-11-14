@@ -26,7 +26,21 @@
   month: February
   tags: [hci, systems]
 
+- title: "Summer Experiences: Ghana"
+  url: "docs/Oct 11 - Sarah Yu - Ghana.pptx"
+  authors: Sarah Yu
+  type: talk
+  venue: DFS Research Group
+  year: 2016
+  month: October
 
+- title: "Cyber Security & Economic Growth: Challenges & Solutions for Pakistan"
+  url: "Presentation in Washangiston University on 8th Nov.pptx"
+  authors: Ammar Jaffri
+  type: talk
+  venue: DFS Research Group
+  year: 2016
+  month: November
 
 - title: "USSD: The Third Universal App"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/perrier_dev2015.pdf"
