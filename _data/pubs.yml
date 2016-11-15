@@ -110,6 +110,54 @@
   year: 2015
   month: August
 
+- title: "Fraud in Mobile Financial Services"
+  url: https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-reaves-mobile_0.pdf
+  authors:  Joseck Luminzu Mudiri
+  type: reference
+  venue: MicroSave report
+  year: 2012
+  month: December
+
+- title: "State of the Industry Report"
+  url: http://www.gsma.com/mobilefordevelopment/programmes/mobile-money/industry-data-and-insights/sotir
+  authors:
+  type: reference
+  venue: GSMA report
+  year: 2016
+  month: February
+
+- title: "Mobile money profitability: A digital ecosystem to drive healthy margins"
+  url: http://www.gsma.com/mobilefordevelopment/programme/mobile-money/mobile-money-profitability-a-digital-ecosystem-to-drive-healthy-margins
+  authors: Mireya Almazan, Nicolas Vonthron.
+  type: reference
+  venue: GSMA report
+  year: 2014
+  month: November
+
+- title: "Digital Dividends"
+  url: http://www.worldbank.org/en/publication/wdr2016
+  authors:
+  type: reference
+  venue: World Development Report
+  year: 2016
+  month:
+
+- title: "Winners & Losers in the Global App Economy"
+  url: http://cariboudigital.net/wp-content/uploads/2016/02/Caribou-Digital-Winners-and-Losers-in-the-Global-App-Economy-2016.pdf
+  authors: Bryan Pon
+  type: reference
+  venue: Caribou Digital report
+  year: 2016
+  month:
+
+- title: "Remittances, Payments, and Money Transfers: Behaviors of South Asians and Indonesians"
+  url: http://www.gallup.com/poll/161675/remittances-payments-money-transfers-behaviors-south-asians-indonesians.aspx
+  authors: Jake Kendall, Melanie Standish, Diana Liu, Nicole Naurath
+  type: reference
+  venue: Gallup report
+  year: 2013
+  month: May
+
 - title: "Digital Financial Services Research Proposal"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSProposalNarrativeOnly.pdf"
   authors: Richard Anderson
