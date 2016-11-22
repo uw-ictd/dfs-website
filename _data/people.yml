@@ -60,6 +60,11 @@ grad:
         webpage: "http://samcastle.com/"
         role: grad
         img: sam_castle.png
+    samia:
+        display_name: "Samia Ibtasam"
+        webpage: "http://samiaibtasam.com/"
+        role: grad
+        img: samia_ibtasam.jpg
     trevor:
         display_name: "Trevor Perrier"
         webpage: "http://homes.cs.washington.edu/~tperrier/"
