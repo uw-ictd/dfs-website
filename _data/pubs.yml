@@ -1,3 +1,5 @@
+# DFS RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
+# PAPERS
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson
@@ -6,42 +8,7 @@
   year: 2016
   month: November
   tags: [dfs, systems]
-
-- title: "Computing and Digital Services for the Poor: The UW Digital Financial Services Research Group"
-  url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_change_2016_03_29.pdf"
-  authors: Richard Anderson
-  type: talk
-  venue: Change Seminar
-  year: 2016
-  month: March
-  tags: [hci]
-
-
-- title: "Computing and Financial Services for the Poor: The UW Digital Financial Services Research Group"
-  url: "http://homes.cs.washington.edu/~anderson/talks/2016/IITD_rja.pdf"
-  authors: Richard Anderson
-  type: talk
-  venue: Indian Institute of Technology,  Delhi (IITD), New Delhi, India
-  year: 2016
-  month: February
-  tags: [hci, systems]
-
-- title: "Summer Experiences: Ghana"
-  url: "docs/Oct 11 - Sarah Yu - Ghana.pptx"
-  authors: Sarah Yu
-  type: talk
-  venue: DFS Research Group
-  year: 2016
-  month: October
-
-- title: "Cyber Security & Economic Growth: Challenges & Solutions for Pakistan"
-  url: "Presentation in Washangiston University on 8th Nov.pptx"
-  authors: Ammar Jaffri
-  type: talk
-  venue: DFS Research Group
-  year: 2016
-  month: November
-
+  
 - title: "USSD: The Third Universal App"
   url: "http://homes.cs.washington.edu/~anderson/papers/2015/perrier_dev2015.pdf"
   authors: Trevor Perrier, Brian Derenzi, Richard Anderson
@@ -50,6 +17,17 @@
   year: 2015
   month: December
   tags: [hci]
+
+# RESEARCH BRIEFS
+- title: "Let's Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World."
+  url: "docs/Mobile_Money_Research_Brief_Oct2016.pdf"
+  authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner, and Richard Anderson.
+  type: brief
+  venue: UW DFS Research Brief 003
+  year: 2016
+  month: October
+  tags: [finance]
+
 
 - title: "A Review of the Computer Science Literature Relating to Digital Financial Services"
   url: "docs/Literature_Survey_Research_Brief_Aug2016.pdf"
@@ -69,14 +47,61 @@
   month: August
   tags: [finance]
 
-- title: "Let's Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World."
-  url: "docs/Mobile_Money_Research_Brief_Oct2016.pdf"
-  authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner, and Richard Anderson.
-  type: brief
-  venue: UW DFS Research Brief 003
+
+# PRESENTATIONS
+- title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/fp_dev_2016.pdf"
+  authors: Fahad Pervaiz
+  type: talk
+  venue: ACM DEV
+  year: 2016
+  month: November
+  tags: [dfs, systems]
+  
+- title: "Cyber Security & Economic Growth: Challenges & Solutions for Pakistan"
+  url: "Presentation in Washangiston University on 8th Nov.pptx"
+  authors: Ammar Jaffri
+  type: talk
+  venue: DFS Research Group
+  year: 2016
+  month: November
+  
+- title: "Summer Experiences: Ghana"
+  url: "docs/Oct 11 - Sarah Yu - Ghana.pptx"
+  authors: Sarah Yu
+  type: talk
+  venue: DFS Research Group
   year: 2016
   month: October
-  tags: [finance]
+  
+- title: "Computing and Digital Services for the Poor: The UW Digital Financial Services Research Group"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/rja_change_2016_03_29.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: Change Seminar
+  year: 2016
+  month: March
+  tags: [hci]
+  
+- title: "Computing and Financial Services for the Poor: The UW Digital Financial Services Research Group"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2016/IITD_rja.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: Indian Institute of Technology,  Delhi (IITD), New Delhi, India
+  year: 2016
+  month: February
+  tags: [hci, systems]
+  
+
+# DFS RESOURCES
+
+
+  
+
+
+
+
+
 
 - title: "A Digital Pathway to Financial Inclusion"
   url: "https://www.responsiblefinanceforum.org/wp-content/uploads/Pathway_Financial_Inclusion.pdf"
@@ -158,6 +183,8 @@
   year: 2013
   month: May
 
+  # INTERNAL DOCUMENTS
+  
 - title: "Digital Financial Services Research Proposal"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSProposalNarrativeOnly.pdf"
   authors: Richard Anderson
