@@ -62,7 +62,7 @@ The DFS research group brings together a group of top scientists and technology 
 <dl class="dl-horizontal people">
 {% for role in site.data.people.grad %}
 	{% assign person = role[1] %}
-	<dt class="person">
+	<dt class="person" style="clear:none;" >
 	  {% if person.webpage %}
 	  <a href="{{ person.webpage |escape }}">
 	  {% endif %}
@@ -77,12 +77,8 @@ The DFS research group brings together a group of top scientists and technology 
 		<img src="img/profile_blank.jpg" alt="{{ person.display_name }}" class="img-rounded" width="100">
 	  {% endif %}
 	</dt>
-	<dd>
-	  {% if person.bio %}
-		{{ person.bio | markdownify }}
-	  {% endif %}
-	</dd>
 {% endfor %}
+	<dd></dd>
 </dl>
 
 <h3>Research Coordinator</h3>
