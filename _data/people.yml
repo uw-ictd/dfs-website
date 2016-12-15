@@ -31,6 +31,14 @@ faculty:
         bio: |
             Yoshi is the Short-Dooley Professor of Computer Science & Engineering at the University of Washington and an Adjunct Associate Professor in the UW Information School.  His research focuses on helping protect the security, privacy, and safety of users of current and future generation technologies. Kohno is the recipient of an Alfred P. Sloan Research Fellowship, a U.S. National Science Foundation CAREER Award, and a Technology Review TR-35 Young Innovator Award.  Kohno has authored more than a dozen award papers, has presented his research to the U.S. House of Representatives, was profiled in the NOVA ScienceNOW “Can Science Stop Crime?” documentary, and is a past chair of the USENIX Security Symposium.  Kohno is also a member of the U.S. Government’s Defense Science Study Group, the National Academies Forum on Cyber Resilience, the IEEE Center for Secure Design, and the USENIX Security Steering Committee.
 
+    Ruth:
+        display_name: "Ruth Anderson"
+        webpage: "http://homes.cs.washington.edu/~rea/"
+        role: faculty
+        img: ruth_anderson.jpg
+        bio: |
+            Ruth Anderson is a Lecturer in Computer Science and Engineering. She received her PhD from UW CSE and was a faculty member at the University of Virginia from 2000-2005. Ruth has worked on several projects in ICTD from a system for tracking mini-buses in Kyrgyzstan to a low-cost ultrasound for use by midwives in Uganda. She has been actively involved with ICTD education, co-leading the undergraduate ICTD capstone course multiple times as well as other related seminars.
+
 postdoc:
     Shrirang:
         display_name: "Shrirang Mare"
