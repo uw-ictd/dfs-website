@@ -192,7 +192,7 @@
   venue: Summary of the first year of the project
   year: 2016
   month: December
-  
+
 - title: "Six Month report from DFS RG"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Aug2016.pdf"
   authors:  Ashley Hartz, Richard Anderson
@@ -212,7 +212,7 @@
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSProposalNarrativeOnly.pdf"
   authors: Richard Anderson
   type: internal
-  venue: Proposal to Bill & Melinda Gates Proposal (Body of the proposal only)
+  venue: Proposal to Bill & Melinda Gates Foundation (Body of the proposal only)
   year: 2015
   month: September
 
