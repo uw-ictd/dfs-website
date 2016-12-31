@@ -185,14 +185,14 @@
 
   # INTERNAL DOCUMENTS
 
-- title: "Digital Financial Services Research Proposal"
-  url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSProposalNarrativeOnly.pdf"
-  authors: Richard Anderson
+- title: "Digital Financial Services Research Group, Annual Report, 2016"
+  url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Dec2016.pdf"
+  authors:  Shrirang Mare, Kevin Johnson, Richard Anderson
   type: internal
-  venue: Proposal to Bill & Melinda Gates Proposal (Body of the proposal only)
-  year: 2015
-  month: September
-
+  venue: Summary of the first year of the project
+  year: 2016
+  month: December
+  
 - title: "Six Month report from DFS RG"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Aug2016.pdf"
   authors:  Ashley Hartz, Richard Anderson
@@ -208,6 +208,13 @@
   venue:  Trip report for DFS learning visit to Pakistan
   year: 2016
   month: August
+- title: "Digital Financial Services Research Proposal"
+  url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSProposalNarrativeOnly.pdf"
+  authors: Richard Anderson
+  type: internal
+  venue: Proposal to Bill & Melinda Gates Proposal (Body of the proposal only)
+  year: 2015
+  month: September
 
 #- title: ""
 #  url: ""
