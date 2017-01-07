@@ -61,11 +61,6 @@ coordinator:
       img: kevin_johnson.jpg
 
 grad:
-    aditya:
-        display_name: "Aditya Vashistha"
-        webpage: "http://www.adityavashistha.com/"
-        role: grad
-        img: aditya_vashistha.jpg
     fahad:
         display_name: "Fahad Pervaiz"
         webpage: "https://homes.cs.washington.edu/~fahadp/"
@@ -81,8 +76,18 @@ grad:
         webpage: "http://samiaibtasam.com/"
         role: grad
         img: samia_ibtasam.jpg
+    aditya:
+        display_name: "Aditya Vashistha"
+        webpage: "http://www.adityavashistha.com/"
+        role: grad
+        img: aditya_vashistha.jpg
     trevor:
         display_name: "Trevor Perrier"
         webpage: "http://homes.cs.washington.edu/~tperrier/"
         role: grad
         img: trevor_perrier.jpg
+    kushal:
+        display_name: "Kushal Shah"
+        webpage: "in.linkedin.com/in/kushalns5"
+        role: grad
+        img: kushal_shah.jpg

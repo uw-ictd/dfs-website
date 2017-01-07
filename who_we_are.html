@@ -59,10 +59,10 @@ The DFS research group brings together a group of top scientists and technology 
 </dl>
 
 <h3>Graduate Students</h3>
-<dl class="dl-horizontal people">
+<div style="padding-left:30px;">
 {% for role in site.data.people.grad %}
 	{% assign person = role[1] %}
-	<dt class="person" style="clear:none;" >
+	<dt class="person" >
 	  {% if person.webpage %}
 	  <a href="{{ person.webpage |escape }}">
 	  {% endif %}
@@ -78,8 +78,9 @@ The DFS research group brings together a group of top scientists and technology 
 	  {% endif %}
 	</dt>
 {% endfor %}
-	<dd></dd>
-</dl>
+</div>
+
+<br style="clear:both">
 
 <h3>Research Coordinator</h3>
 <dl class="dl-horizontal people">
@@ -107,6 +108,7 @@ The DFS research group brings together a group of top scientists and technology 
 		</dd>
 	{% endfor %}
 </dl>
+
 
 
 <h3>Collaborators</h3>
