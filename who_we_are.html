@@ -82,6 +82,30 @@ The DFS research group brings together a group of top scientists and technology 
 
 <br style="clear:both">
 
+<h3>Undergraduate Students</h3>
+<div style="padding-left:30px;">
+{% for role in site.data.people.undergrad %}
+	{% assign person = role[1] %}
+	<dt class="person" >
+	  {% if person.webpage %}
+	  <a href="{{ person.webpage |escape }}">
+	  {% endif %}
+		{{ person.display_name }}
+	  {% if person.webpage %}
+	  </a>
+	  {% endif %}
+	  <br />
+	  {% if person.img %}
+		<img src="img/{{ person.img }}" alt="{{ person.display_name }}" class="img-rounded" width="100">
+	  {% else %}
+		<img src="img/profile_blank.jpg" alt="{{ person.display_name }}" class="img-rounded" width="100">
+	  {% endif %}
+	</dt>
+{% endfor %}
+</div>
+
+<br style="clear:both">
+
 <h3>Research Coordinator</h3>
 <dl class="dl-horizontal people">
 	{% for role in site.data.people.coordinator %}
@@ -108,7 +132,6 @@ The DFS research group brings together a group of top scientists and technology 
 		</dd>
 	{% endfor %}
 </dl>
-
 
 
 <h3>Collaborators</h3>

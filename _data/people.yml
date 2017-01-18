@@ -91,3 +91,13 @@ grad:
         webpage: "https://in.linkedin.com/in/kushalns5"
         role: grad
         img: kushal_shah.jpg
+
+undergrad:
+    emily:
+        display_name: "Emily Leland"
+        role: undergrad
+        img: Emily_Leland.jpg
+    sarah:
+        display_name: "Sarah Yu"
+        role: undergrad
+        img: sarah_yu.jpg
