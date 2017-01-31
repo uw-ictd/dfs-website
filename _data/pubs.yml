@@ -49,6 +49,14 @@
 
 
 # PRESENTATIONS
+- title: "Computing and  Financial Services for the Poor: The UW Digital Financial Services Research Group"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2017/rja_dfsrg_jan2017.pdf"
+  authors: Richard Anderson, Shrirang Mare, Sam Castle
+  type: talk
+  venue: 
+  year: 2017
+  month: January
+  tags: [dfs]
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
   url: "http://homes.cs.washington.edu/~anderson/talks/2016/fp_dev_2016.pdf"
   authors: Fahad Pervaiz
