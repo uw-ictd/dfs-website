@@ -93,10 +93,18 @@ grad:
         img: kushal_shah.jpg
 
 undergrad:
+    arjun:
+        display_name: "Arjun Lalwani"
+        role: undergrad
+        img: arjun_lalwani.jpg
     emily:
         display_name: "Emily Leland"
         role: undergrad
         img: Emily_Leland.jpg
+    katherine:
+        display_name: "Katherine Van Koevering"
+        role: undergrad
+        img: katherine_van_koevering.jpg
     sarah:
         display_name: "Sarah Yu"
         role: undergrad
