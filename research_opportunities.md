@@ -2,27 +2,52 @@
 layout: default
 title: Research Opportunities
 ---
+In order to develop and deploy DFS tech solutions, the DFSRG’s approach to research involves a three-stage process. The first is the Formative stage, which involves identifying and assessing problems of interest (such as SMS-driven fraud), and developing proof of concept solutions. The second stage is the Development stage. This involves building prototype solutions and evaluating them in controlled settings (such as the mobile money security validation tool). The third stage is the Translation stage. This is when we scale our prototype solutions for deployment, and transfer technology to partner organizations in developing countries.
+
+UW CSE students play a major role in the DFSRG research process. While our faculty advise students and provide general guidance, each project is assigned one graduate student as a project lead, with several other students collaborating on each individual project as well. The project lead takes ownership of the project, and is responsible for ensuring timely completion of each milestone. This involves delegating work on project milestones to other students.
 
 We have a number of research opportunities for interested students, including:
 
 <ul class="list-group">
-  <li class="list-group-item">Helix Data Set: Our partnership with MicroSave has given DFSRG access to the Helix data set. This data set offers rich qualitative survey responses from thousands of agents across eight countries. We will clean this data, and develop a code book for the data set. We will answer research questions related to agent churn, business evolution over time, and liquidity management. We will also make the data more accessible by developing an interactive portal to query and visualize the data.  Other next steps include merging the Helix dataset with Financial Inclusion Insights customer survey dataset, and a deep dive in data analysis. We are collaborating with the Evans School Policy Analysis and Research Group (EPAR) on this project. </li>
-<li class="list-group-item">UW Pesa: UW-Pesa is a test bed to experiment with various DFS technologies and security protocols. It is also a test bed to conduct usability studies, rapidly prototype product design, and test solutions; a community building and education tool; and an outreach tool.
-Getting a working USSD for research projects is challenging. We developed a USSD simulator, and implemented it using a USSD gateway from Africa’s Talking. The result is a working USSD interface for UW-Pesa.
-Ongoing work for UW-Pesa includes developing web and mobile app interfaces for USSD, implementing mobile money services protocols similar to existing services such as M-Pesa and EasyPaisa, and integrating Point of Sale (PoS) and Know Your Customer (KYC) using biometrics.
+  <li class="list-group-item">Helix Data Set: The Helix data set offers rich qualitative survey responses from thousands of agents across eight countries.
+
+Research opportunities for this project include:
+1) Cleaning this data, and developing a code book for the data set.
+2) Developing an interactive portal to query and visualize the data will also make the data more accessible.
+3) Merging the Helix dataset with Financial Inclusion Insights customer survey dataset, and a deep dive in data analysis.
+ </li>
+<li class="list-group-item">UW Pesa: UW-Pesa is a test bed to experiment with various DFS technologies and security protocols.
+
+Research opportunities for UW-Pesa include:
+1) Develop a web interface for USSD
+2) Develop a mobile app interface for USSD
+3) Integrate Point of Sale (PoS) and Know Your Customer (KYC) using biometrics.
 </li>
-<li class="list-group-item">Proximity Payments: The goal in this project is to ensure security of transactions, while making products easy enough to use that they are adopted. First we will understand current payment methods and protocols at Point of Sale (PoS) in five different countries: Kenya, Pakistan, Ghana, Tanzania, and India. Through field visits and interviews with customers and merchants in these countries we are documenting these protocols, and we plan to conduct a thorough usability and security evaluation of these protocols in the context of developing regions.</li>
-<li class="list-group-item">SMS-driven Fraud: Risk of fraud is one of the main challenges in DFS and it is one of our priority areas. This can happen in a number of ways including SMS transactions, payments and dues, one-time pin numbers, and account recovery via SMS. In a SMS-fraud, an attacker exploits a customer’s poor understanding of mobile phones and DFS services, and uses SMS phishing to defraud the customer.
+<li class="list-group-item">Proximity Payments: The goal in this project is to ensure security of transactions, while making products easy enough to use that they are adopted.
 
-We are exploring techniques to detect and mitigate SMS-driven fraud in DFS. We seek to answer the following research questions: What types of fraud are occurring over SMS? How prevalent is fraud? Which system-level indicators can we use to detect fraud? What are the different Telco-level and user-level fraud detection methods? Do these differ, and how? What are the differences in fraud detection between Android phones and feature phones?
+Research opportunities for this project include:
+1) Document current payment methods and protocols at Point of Sale (PoS) through field visits and interviews with customers and merchants in these countries.
+2) Develop a sonic proximity payment prototype.
+3) Develop a NFC app prototype.
+4) Conduct a thorough usability and security evaluation of these protocols in the context of developing regions.
+</li>
+<li class="list-group-item">SMS-driven Fraud: Fraud can happen in a number of ways including SMS transactions, payments and dues, one-time pin numbers, and account recovery via SMS. In a SMS-fraud, an attacker exploits a customer’s poor understanding of mobile phones and DFS services, and uses SMS phishing to defraud the customer.
 
-We are collaborating with Caribou Digital to develop a SMS data collection platform, which we will release as an Android app, initially to a few hundred volunteers. Along with the SMSs, we will also collect data on users’ interactions with the phishing SMSs, because we want to understand how users respond to phishing SMSs. This information will be useful in developing tools to mitigate SMS phishing. We hope to make the data we collect available to others, as it would provide visibility in SMS-driven fraud in developing regions.</li>
-<li class="list-group-item">Android Devices for DFS: There are many proposals for using Android mobile phones for Digital Financial Services, including for financial applications, point of sale devices, and biometrics. However, Android phones vary widely, with significant differences in hardware and they prices range from $25 to $1000. These differences raise interesting questions: How does these Android phones differ? Does a solution that works on the most expensive phone work on a cheaper phone? What are the trade offs that manufacturers are making to drive the cost down? What are the trade offs for users? How do these differences affect solutions in the DFS space?
-
-For this project we will develop a use case catalog, identify hardware requirements of different DFS applications, investigate the tear downs of different classes of Android phones ($50 phone, $100 phone, $400 phone), and evaluate which phones are suitable for particular use cases. Some cases could entail running the same software on both phones (for example, fingerprint recognition) and then compare accuracy and results.</li>
+Research opportunities for this project include:
+1) In collaboration with Caribou Digital, students will develop a SMS data collection platform. We will release as an Android app, initially to a few hundred volunteers.
+2) Along with the SMSs, students will collect data on users’ interactions with the phishing SMSs
+3) Students will perform analysis of the data collected, in order to help us understand how users respond to phishing SMSs.
+</li>
+<li class="list-group-item">Android Devices for DFS: Research opportunities for this project include:
+1) Develop a use case catalog of Android devices
+2) Identify hardware requirements of different DFS applications
+3) Investigate the teardowns of different classes of Android phones ($50 phone, $100 phone, $400 phone)
+4) Evaluate which phones are suitable for particular use cases. Some cases could entail running the same software on both phones (for example, fingerprint recognition) and then compare accuracy and results.
+</li>
 <li class="list-group-item">Mobile Money App Library: Create a searchable library of screenshots and screen captures of mobile money applications from around the world.</li>
   <!--
   <li class="list-group-item">Research Opportunity 4</li>
   <li class="list-group-item">Research Opportunity 5</li>
   -->
 </ul>
+Interested UW CSE students should contact the Research Coordinator, kevinj7@cs
