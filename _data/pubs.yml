@@ -53,7 +53,7 @@
   url: "http://homes.cs.washington.edu/~anderson/talks/2017/rja_dfsrg_jan2017.pdf"
   authors: Richard Anderson, Shrirang Mare, Sam Castle
   type: talk
-  venue: 
+  venue:
   year: 2017
   month: January
   tags: [dfs]
@@ -118,6 +118,14 @@
   venue: Bill & Melinda Gates Foundation
   year: 2012
   month: December
+
+- title: "Identification Principles for Sustainable Development: Toward the Digital Age"
+  url: "docs/Identification Principles for Sustainable Development_Toward the Digital.pdf"
+  authors:
+  type: reference
+  venue: World Bank Group and Center for Global Development
+  year: 2017
+  month: February
 
 - title: "Designing Mobile Money Services: Lessons from M-PESA"
   url: "http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2009.4.2.77"
