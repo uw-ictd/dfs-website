@@ -49,6 +49,15 @@
 
 
 # PRESENTATIONS
+- title: "Security and Fraud in Financial Services for Emerging Digital Economies"
+  url: "docs/2017Feb-Sam-quals.pdf"
+  authors: Sam Castle
+  type: talk
+  venue: Change Seminar
+  year: 2017
+  month: February
+  tags: [dfs, systems]
+
 - title: "Computing and  Financial Services for the Poor: The UW Digital Financial Services Research Group"
   url: "http://homes.cs.washington.edu/~anderson/talks/2017/rja_dfsrg_jan2017.pdf"
   authors: Richard Anderson, Shrirang Mare, Sam Castle
