@@ -52,4 +52,4 @@ Research opportunities for this project include:
   <li class="list-group-item">Research Opportunity 5</li>
   -->
 </ul>
-Interested UW CSE students should contact the Research Coordinator, kevinj7@cs
+Interested UW CSE students should contact <a href="http://www.cs.washington.edu/people/faculty/anderson">Prof. Richard Anderson</a>.
