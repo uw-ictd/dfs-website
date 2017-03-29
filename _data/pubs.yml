@@ -49,6 +49,14 @@
 
 
 # PRESENTATIONS
+- title: "The UW Digital Financial Services Research Group : An Update"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2017/rja_change_mar2017.pdf"
+  authors: Richard Anderson 
+  type: talk
+  venue: Change Seminar,  March 28, 2017
+  year: 2017
+  month: March
+  tags: [dfs]
 - title: "Security and Fraud in Financial Services for Emerging Digital Economies"
   url: "docs/2017Feb-Sam-quals.pdf"
   authors: Sam Castle
