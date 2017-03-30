@@ -33,7 +33,7 @@
   url: "docs/Literature_Survey_Research_Brief_Aug2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Sarah Yu
   type: brief
-  venue: UW DFS Research Brief 001
+  venue: UW DFS Research Brief 002
   year: 2016
   month: August
   tags: [finance]
@@ -42,7 +42,7 @@
   url: "docs/ICTD_Open_Session_Research_Brief_Aug2016.pdf"
   authors: Sam Castle, Ashley Hartz, Fahad Pervaiz
   type: brief
-  venue: UW DFS Research Brief 002
+  venue: UW DFS Research Brief 001
   year: 2016
   month: August
   tags: [finance]
@@ -51,7 +51,7 @@
 # PRESENTATIONS
 - title: "The UW Digital Financial Services Research Group : An Update"
   url: "http://homes.cs.washington.edu/~anderson/talks/2017/rja_change_mar2017.pdf"
-  authors: Richard Anderson 
+  authors: Richard Anderson
   type: talk
   venue: Change Seminar,  March 28, 2017
   year: 2017
