@@ -88,6 +88,16 @@ grad:
         webpage: "https://in.linkedin.com/in/kushalns5"
         role: grad
         img: kushal_shah.jpg
+    matt:
+        display_name: "Matt Johnson"
+        webpage: "https://homes.cs.washington.edu/~matt9j/"
+        role: grad
+        img: matt_johnson.jpg
+    esther:
+        display_name: "Esther Jang"
+        webpage: "https://homes.cs.washington.edu/~infrared/"
+        role: grad
+        img: esther_jang.jpg
 
 undergrad:
     arjun:
