@@ -216,7 +216,15 @@
   year: 2013
   month: May
 
-  # INTERNAL DOCUMENTS
+  # INTERNAL DOCUMENTS.  Directory access requires UW credentials
+
+- title: "Digital Financial Services Research Group, Semiannual Report"
+  url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Jul2017.pdf"
+  authors:  Jennifer Webster
+  type: internal
+  venue: Summary of project for last six months
+  year: 2017
+  month: July
 
 - title: "Digital Financial Services Research Group, Annual Report, 2016"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Dec2016.pdf"
