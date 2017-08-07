@@ -75,6 +75,14 @@
 
 
 # PRESENTATIONS
+- title: "Computing and Digital Financial Services"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2017/rja_itu_july2017.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: Information Technology University (ITU), Lahore, Pakistan,  July 28, 2017
+  year: 2017
+  month: July
+  tags: [dfs]
 - title: "The UW Digital Financial Services Research Group : An Update"
   url: "http://homes.cs.washington.edu/~anderson/talks/2017/rja_change_mar2017.pdf"
   authors: Richard Anderson
