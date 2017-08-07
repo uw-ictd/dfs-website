@@ -20,7 +20,7 @@
 
 # RESEARCH BRIEFS
 - title: "Mobile Money and Gender"
-  url: "docs/gender_july2017.pdf"
+  url: "docs/research_briefs/gender_july2017.pdf"
   authors: UW DFS Research Group
   type: brief
   venue: Research Brief 006
@@ -29,7 +29,7 @@
   tags: [hci]
   
 - title: "An Exploration of Smartphone-Based Mobile Money Applications in Pakistan"
-  url: "docs/smartphone_learnability_july2017.pdf"
+  url: "docs/research_briefs/smartphone_learnability_july2017.pdf"
   authors: UW DFS Research Group
   type: brief
   venue: Research Brief 005
@@ -38,7 +38,7 @@
   tags: [hci]
   
 - title: "An Investigation of Phone Upgrades in Remote Community Cellular Networks"
-  url: "docs/community_cellular_july2017.pdf"
+  url: "docs/research_briefs/community_cellular_july2017.pdf"
   authors: UW DFS Research Group
   type: brief
   venue: Research Brief 004
@@ -47,7 +47,7 @@
   tags: [systems]
 
 - title: "Let's Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
-  url: "docs/Mobile_Money_Research_Brief_Oct2016.pdf"
+  url: "docs/research_briefs/Mobile_Money_Research_Brief_Oct2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner, and Richard Anderson.
   type: brief
   venue: UW DFS Research Brief 003
@@ -56,7 +56,7 @@
   tags: [finance]
   
 - title: "A Review of the Computer Science Literature Relating to Digital Financial Services"
-  url: "docs/Literature_Survey_Research_Brief_Aug2016.pdf"
+  url: "docs/research_briefs/Literature_Survey_Research_Brief_Aug2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Sarah Yu
   type: brief
   venue: UW DFS Research Brief 002
@@ -65,7 +65,7 @@
   tags: [finance]
 
 - title: "ICTD 2016 Digital Financial Services Open Session Report"
-  url: "docs/ICTD_Open_Session_Research_Brief_Aug2016.pdf"
+  url: "docs/research_briefs/ICTD_Open_Session_Research_Brief_Aug2016.pdf"
   authors: Sam Castle, Ashley Hartz, Fahad Pervaiz
   type: brief
   venue: UW DFS Research Brief 001
