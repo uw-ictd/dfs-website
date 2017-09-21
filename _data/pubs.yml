@@ -1,5 +1,22 @@
 # DFS RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "An Exploration of Smartphone Based Mobile Money Applications in Pakistan"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2017/ibtasam_ictd2017.pdf"
+  authors: Samia Ibtasam, Hamid Mehmood, Lubna Razaq, Jennifer Webster, Sarah Yu, and Richard Anderson
+  type: paper
+  venue: ICTD
+  year: 2017
+  month: November
+  tags: [dfs, systems]
+
+- title: "An Investigation of Phone Upgrades in Remote Community Cellular Networks"
+  url: "http://homes.cs.washington.edu/~anderson/papers/2017/shah_ictd2017.pdf"
+  authors: Kushal Shah, Philip Martinez, Emre Tepedelenlioglu, Shaddi Hasan, Ceric Festin, Joshua Blumenstock, Josephine Dionisio and Kertis Heimerl
+  type: paper
+  venue: ICTD
+  year: 2017
+  month: November
+  tags: [dfs, systems]
 - title: "Let’s Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World"
   url: "http://homes.cs.washington.edu/~anderson/papers/2016/castle_dev2016.pdf"
   authors: Sam Castle, Fahad Pervaiz, Galen Weld, Franziska Roesner and Richard Anderson
