@@ -102,6 +102,10 @@ grad:
         webpage: "https://homes.cs.washington.edu/~infrared/"
         role: grad
         img: esther_jang.jpg
+    naveena:
+        display_name: "Naveena Karusala"
+        role: grad
+        img: naveena_karusala.jpg
 
 undergrad:
     arjun:
