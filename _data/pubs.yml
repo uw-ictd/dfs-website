@@ -92,6 +92,14 @@
 
 
 # PRESENTATIONS
+- title: "An Investigation of Phone Upgrades in Remote Community Cellular Networks"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2017/kh_ictd_2017.pdf"
+  authors: Kurtis Heimerl
+  type: talk
+  venue: ICTD 2017, Lahore Pakistan
+  year: 2017
+  month: November
+  tags: [dfs]
 - title: "An Exploration of Smartphone Based Mobile Money Applications in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/talks/2017/samia_ictd_2017.pdf"
   authors: Samia Ibtasam
