@@ -92,6 +92,14 @@
 
 
 # PRESENTATIONS
+- title: "Digital Financial Services: Gender &amp; Learnability"
+  url: "http://homes.cs.washington.edu/~anderson/talks/2018/samia_change_2018.pdf"
+  authors: Samia Ibtasam
+  type: talk
+  venue: Change Seminar,  University of Washington
+  year: 2018
+  month: January
+  tags: [dfs]
 - title: "An Investigation of Phone Upgrades in Remote Community Cellular Networks"
   url: "http://homes.cs.washington.edu/~anderson/talks/2017/kh_ictd_2017.pdf"
   authors: Kurtis Heimerl
