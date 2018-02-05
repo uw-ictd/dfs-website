@@ -1,5 +1,30 @@
 # DFS RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "Computer Security and Privacy for Refugees in the United States"
+  authors: Lucy Simko, Ada Lerner, Samia Ibtasam, Ada Lerner, Franziska Roesner and Tadayoshi Kohno
+  type: paper
+  venue: IEEE Security and Privacy 2018 (“Oakland”)
+  year: 2018
+  month: May
+  tags: [dfs]
+  
+- title: "eKichabi: Information Access through Basic Mobile Phones in Rural Tanzania"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/weld_chi2018.pdf"
+  authors: Galen Weld, Trevor Perrier, Jenny Aker, Joshua Blumenstock, Brian Dillon, Adalbertus Kamanzi, Editha Kokushubira, Jennifer Webster and Richard Anderson
+  type: paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2018
+  month: April
+  tags: [dfs, hci]
+  
+- title: "Crowdsourcing Rural Network Maintenance and Repair via Network Messaging"
+  authors: Esther Jang, Mary Claire Barela, Matt Johnson, Philip Martinez, Cedric Festin, Margaret Lynn, Josephine Dionisio, and Kurtis Heimerl
+  type: paper
+  venue: ACM CHI Conference on Human Factors in Computing Systems
+  year: 2018
+  month: April
+  tags: [dfs, hci]
+  
 - title: "An Exploration of Smartphone Based Mobile Money Applications in Pakistan"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/ibtasam_ictd2017.pdf"
   authors: Samia Ibtasam, Hamid Mehmood, Lubna Razaq, Jennifer Webster, Sarah Yu, and Richard Anderson
@@ -7,7 +32,7 @@
   venue: ICTD
   year: 2017
   month: November
-  tags: [dfs, systems]
+  tags: [dfs, hci]
 
 - title: "An Investigation of Phone Upgrades in Remote Community Cellular Networks"
   url: "http://homes.cs.washington.edu/~anderson/papers/2017/shah_ictd2017.pdf"
@@ -203,45 +228,49 @@
 
 # DFS RESOURCES
 
-
-
-
-
-
-
-
-
-- title: "A Digital Pathway to Financial Inclusion"
-  url: "https://www.responsiblefinanceforum.org/wp-content/uploads/Pathway_Financial_Inclusion.pdf"
-  authors: Dan Radcliffe, Rodger Voorhies
+- title: "ID Identities: New Practices in a Connected Age"
+  url: "docs/ref/Caribou-Identities-Report.pdf"
+  authors: Savita Bailur, Bryan Pon, and Emrys Schoemaker
   type: reference
-  venue: Bill & Melinda Gates Foundation
-  year: 2012
+  venue: Caribou Digital Report
+  year: 2017
   month: December
-
+  
 - title: "Identification Principles for Sustainable Development: Toward the Digital Age"
   url: "docs/Identification Principles for Sustainable Development_Toward the Digital.pdf"
-  authors:
+  authors: World Bank Group and Center for Global Development
   type: reference
-  venue: World Bank Group and Center for Global Development
+  venue: Report
   year: 2017
   month: February
-
-- title: "Designing Mobile Money Services: Lessons from M-PESA"
-  url: "http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2009.4.2.77"
-  authors: Ignacio Mas, Olga Morawczynski
+  
+- title: "Digital Dividends"
+  url: http://www.worldbank.org/en/publication/wdr2016
+  authors: WOrld Bank
   type: reference
-  venue: innovations / spring 2009
-  year: 2009
-  month: April
-
-- title: "Doing Digital Finance Right"
-  url: "http://www.cgap.org/publications/doing-digital-finance-right"
-  authors:  Katharine McKee, Michelle Kaffenberger,  Jamie Zimmerman
+  venue: World Development Report
+  year: 2016
+  month: May
+  
+- title: "State of the Industry Report"
+  url: http://www.gsma.com/mobilefordevelopment/programmes/mobile-money/industry-data-and-insights/sotir
+  authors: GSMA
   type: reference
-  venue: CGAP report
-  year: 2015
+  venue: Report
+  year: 2016
+  month: February
+
+
+
+- title: "Winners & Losers in the Global App Economy"
+  url: http://cariboudigital.net/wp-content/uploads/2016/02/Caribou-Digital-Winners-and-Losers-in-the-Global-App-Economy-2016.pdf
+  authors: Bryan Pon
+  type: reference
+  venue: Caribou Digital report
+  year: 2016
   month: June
+
+
 
 - title: "Mo(bile) Money, Mo(bile) Problems: Analysis of Branchless Banking Applications in the Developing World"
   url: https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-reaves-mobile_0.pdf
@@ -250,23 +279,15 @@
   venue: 24th USENIX Security Symposium
   year: 2015
   month: August
-
-- title: "Fraud in Mobile Financial Services"
-  url: https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-reaves-mobile_0.pdf
-  authors:  Joseck Luminzu Mudiri
+  
+- title: "Doing Digital Finance Right"
+  url: "http://www.cgap.org/publications/doing-digital-finance-right"
+  authors:  Katharine McKee, Michelle Kaffenberger,  Jamie Zimmerman
   type: reference
-  venue: MicroSave report
-  year: 2012
-  month: December
-
-- title: "State of the Industry Report"
-  url: http://www.gsma.com/mobilefordevelopment/programmes/mobile-money/industry-data-and-insights/sotir
-  authors:
-  type: reference
-  venue: GSMA report
-  year: 2016
-  month: February
-
+  venue: CGAP report
+  year: 2015
+  month: June
+  
 - title: "Mobile money profitability: A digital ecosystem to drive healthy margins"
   url: http://www.gsma.com/mobilefordevelopment/programme/mobile-money/mobile-money-profitability-a-digital-ecosystem-to-drive-healthy-margins
   authors: Mireya Almazan, Nicolas Vonthron.
@@ -275,21 +296,7 @@
   year: 2014
   month: November
 
-- title: "Digital Dividends"
-  url: http://www.worldbank.org/en/publication/wdr2016
-  authors:
-  type: reference
-  venue: World Development Report
-  year: 2016
-  month:
 
-- title: "Winners & Losers in the Global App Economy"
-  url: http://cariboudigital.net/wp-content/uploads/2016/02/Caribou-Digital-Winners-and-Losers-in-the-Global-App-Economy-2016.pdf
-  authors: Bryan Pon
-  type: reference
-  venue: Caribou Digital report
-  year: 2016
-  month:
 
 - title: "Remittances, Payments, and Money Transfers: Behaviors of South Asians and Indonesians"
   url: http://www.gallup.com/poll/161675/remittances-payments-money-transfers-behaviors-south-asians-indonesians.aspx
@@ -299,8 +306,53 @@
   year: 2013
   month: May
 
+- title: "A Digital Pathway to Financial Inclusion"
+  url: "https://www.responsiblefinanceforum.org/wp-content/uploads/Pathway_Financial_Inclusion.pdf"
+  authors: Dan Radcliffe, Rodger Voorhies
+  type: reference
+  venue: Bill & Melinda Gates Foundation
+  year: 2012
+  month: December
+
+- title: "Fraud in Mobile Financial Services"
+  url: https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-reaves-mobile_0.pdf
+  authors:  Joseck Luminzu Mudiri
+  type: reference
+  venue: MicroSave report
+  year: 2012
+  month: December
+  
+- title: "Designing Mobile Money Services: Lessons from M-PESA"
+  url: "http://www.mitpressjournals.org/doi/pdf/10.1162/itgg.2009.4.2.77"
+  authors: Ignacio Mas, Olga Morawczynski
+  type: reference
+  venue: innovations / spring 2009
+  year: 2009
+  month: April
+
+
+
+
+
+
+
   # INTERNAL DOCUMENTS.  Directory access requires UW credentials
 
+- title: "Digital Financial Services Workshop, Lahore 2017"
+  url: "docs/reports/DFS_Workshop_Lahore_2017.pdf"
+  authors:  Jennifer Webster
+  type: internal
+  venue: Workshop report
+  year: 2018
+  month: February
+  
+- title: "Digital Financial Services Research Group, Annual Rport, 2017"
+  authors:  Jennifer Webster, Richard Anderson
+  type: internal
+  venue: Summary of the second year of the project
+  year: 2017
+  month: December
+  
 - title: "Digital Financial Services Research Group, Semiannual Report"
   url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Jul2017.pdf"
   authors:  Jennifer Webster
