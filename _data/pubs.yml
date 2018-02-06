@@ -236,6 +236,14 @@
   year: 2017
   month: December
   
+- title: "Technology Inequality"
+  url: "docs/ref/CFI-Technology-Inequality.pdf"
+  authors: Leon Perlman
+  type: reference
+  venue: Center for Financial Inclusion Report
+  year: 2017
+  month: April
+  
 - title: "Identification Principles for Sustainable Development: Toward the Digital Age"
   url: "docs/Identification Principles for Sustainable Development_Toward the Digital.pdf"
   authors: World Bank Group and Center for Global Development
@@ -347,6 +355,7 @@
   month: February
   
 - title: "Digital Financial Services Research Group, Annual Rport, 2017"
+  url: "https://homes.cs.washington.edu/~anderson/uwdfs/DFSRG_report_Dec2017.pdf"
   authors:  Jennifer Webster, Richard Anderson
   type: internal
   venue: Summary of the second year of the project
