@@ -127,6 +127,14 @@
 
 
 # PRESENTATIONS
+- title: "UW Digital Financial Services Research Group"
+  url: "docs/talks/2018/rja_msri_2018.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: Microsoft Research India, Bangalore, India  
+  year: 2018
+  month: February
+  tags: [dfs]
 - title: "Digital Financial Services: Gender &amp; Learnability"
   url: "docs/talks/2018/samia_change_2018.pdf"
   authors: Samia Ibtasam
