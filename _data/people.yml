@@ -125,3 +125,9 @@ undergrad:
         display_name: "Sarah Yu"
         role: undergrad
         img: sarah_yu.jpg
+staff:
+    clarice:
+        display_name: "Clarice Larson"
+        role: staff
+        img: clarice_larson.jpg
+
