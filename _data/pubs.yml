@@ -127,6 +127,30 @@
 
 
 # PRESENTATIONS
+- title: "An Exploration of the Handset Technology Landscape"
+  url: "docs/talks/2018/jmoore_fsp_2018.pdf"
+  authors: Jared Moore
+  type: talk
+  venue: BMGF Financial Services for the Poor, May 17, 2018
+  year: 2018
+  month: May
+  tags: [dfs]
+- title: "UW Digital Financial Services Research Group"
+  url: "docs/talks/2018/rja_fsp_2018.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: BMGF Financial Services for the Poor, May 8, 2018
+  year: 2018
+  month: May
+  tags: [dfs]
+- title: "eKichabi: Information Access through Basic Mobile Phones in Rural Tanzania"
+  url: "docs/talks/2018/galen_chi_2018.pdf"
+  authors: Galen Weld
+  type: talk
+  venue: CHI 2018,  Montreal,  Canada
+  year: 2018
+  month: April
+  tags: [hci]
 - title: "UW Digital Financial Services Research Group"
   url: "docs/talks/2018/rja_msri_2018.pdf"
   authors: Richard Anderson
