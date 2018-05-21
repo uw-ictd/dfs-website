@@ -1,5 +1,41 @@
 # DFS RESOURCES - ORDER BY DATE,  MOST RECENT FIRST
 # PAPERS
+- title: "A Qualitative Exploration of Mobile Money in Ghana"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/yu_compass2018.pdf"
+  authors: Sarah Yu (University of Washington), Samia Ibtasam (University of Washington)
+  type: paper
+  venue: COMPASS 2018, Menlo Park & San Jose, California
+  year: 2018
+  month: June
+  tags: [dfs]
+
+- title: "Knowledge, Access, and Decision-Making: Women's Financial Inclusion in Pakistan"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/ibtasam_compass2018.pdf"
+  authors: Samia Ibtasam (University of Washington), Lubna Razaq (Information Technology University), Haider W. Anwar (Northeastern University), Hamid Mehmood (Information Technology University), Kushal Shah (University of Washington), Jennifer Webster (University of Washington), Neha Kumar (Georgia Institute of Technology), Richard Anderson (University of Washington)
+  type: paper
+  venue: COMPASS 2018, Menlo Park & San Jose, California
+  year: 2018
+  month: June
+  tags: [dfs]
+  
+- title: "ThinSIM-based Attacks on Mobile Money Systems"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/phipps_compass2018.pdf"
+  authors: Rowan Phipps (University of Washington), Shrirang Mare (University of Washington), Peter Ney (University of Washington), Jennifer Rose Webster (University of Washington), Kurtis Heimerl (University of Washington)
+  type: paper
+  venue: COMPASS 2018, Menlo Park & San Jose, California
+  year: 2018
+  month: June
+  tags: [dfs]
+ 
+- title: "Examining Security and Privacy Research in Developing Regions"
+  url: "http://ictd.cs.washington.edu/docs/papers/2018/vashistha_compass2018.pdf"
+  authors: Aditya Vashistha (University of Washington), Richard Anderson (University of Washington), Shrirang Mare (University of Washington)
+  type: paper
+  venue: COMPASS 2018, Menlo Park & San Jose, California
+  year: 2018
+  month: June
+  tags: [dfs]
+   
 - title: "Computer Security and Privacy for Refugees in the United States"
   authors: Lucy Simko, Ada Lerner, Samia Ibtasam, Ada Lerner, Franziska Roesner and Tadayoshi Kohno
   type: paper
