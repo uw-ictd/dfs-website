@@ -163,6 +163,38 @@
 
 
 # PRESENTATIONS
+- title: "Knowledge, Access, and Decision-Making: Women's Financial Inclusion in Pakistan"
+  url: "docs/talks/2018/rja_compass_2018.pdf"
+  authors: Richard Anderson
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [dfs]
+- title: "Meta-analysis: Examining Security and Privacy Research in Developing Regions"
+  url: "docs/talks/2018/shri_compass_2018.pdf"
+  authors: Shrirang Mare
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [security]
+- title: "Thin Sim-Based Mobile Money Attacks"
+  url: "docs/talks/2018/rowan_compass_2018.pdf"
+  authors: Rowan Phipps
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [security]
+- title: "A Qualitative Exploration of Mobile Money in Ghana"
+  url: "docs/talks/2018/sarah_compass_2018.pdf"
+  authors: Sarah Yu
+  type: talk
+  venue: COMPASS 2018, Silicon Valley, California
+  year: 2018
+  month: June
+  tags: [dfs]
 - title: "An Exploration of the Handset Technology Landscape"
   url: "docs/talks/2018/jmoore_fsp_2018.pdf"
   authors: Jared Moore
