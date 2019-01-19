@@ -11,13 +11,7 @@ We have a number of research opportunities for interested students, including:
 <ul class="list-group">
 <li class="list-group-item">Mobile App Security: In our formative research, we conducted a large-scale analysis of 197 Android mobile money apps and interviewed seven Android developers from Africa and South America to identify mobile app security problems of interest. Our next step is to leverage existing security tools by creating a security validation framework. Many of the existing tools are effective, but in very specific ways. The idea for our security validation framework is to direct developers to appropriate security tools by allowing them to conduct a self-assessment. Research opportunities for this project include: 1) Help build a prototype of the security validation framework. 2) Compile resources for best practices. 3) Compile automated Android analysis. 4) Assist with a large interview study of app developers to evaluate the prototype.
 </li>
-  <li class="list-group-item">Helix Data Set: The Helix data set offers rich qualitative survey responses from thousands of agents across eight countries.
-
-Research opportunities for this project include:
-1) Cleaning this data, and developing a code book for the data set.
-2) Developing an interactive portal to query and visualize the data will also make the data more accessible.
-3) Merging the Helix dataset with Financial Inclusion Insights customer survey dataset, and a deep dive in data analysis.
- </li>
+  
 <li class="list-group-item">UW Pesa: UW-Pesa is a test bed to experiment with various DFS technologies and security protocols.
 
 Research opportunities for UW-Pesa include:
